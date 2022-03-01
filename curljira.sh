@@ -1,1 +1,1 @@
-curl -D- -k -u jaisri306@gmail.com:Jaisri@123 -X POST --data @jira.json -H "Content-Type: application/json" https://jaisri.atlassian.net/rest/api/3/issue/
+curl -D- -k -X POST --data @jira.json -H "Authorization: Basic amFpc3JpMzA2QGdtYWlsLmNvbTp6b3c5WW9Zak9xMXJZc1hGRzV2Y0VGNTU=" "Content-Type: application/json" https://jaisri.atlassian.net/rest/api/3/issue/bulk
