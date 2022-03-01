@@ -1,27 +1,56 @@
-{
-"fields": {
-"project":
-{
-"key": "TEST"
+{ 
+"issueUpdates":[ 
+{ 
+"fields":{ 
+"project":{ 
+"key":"CITDEV"
 },
-"summary": "Review site for core, plugin, theme updates.",
-"description": {
-"type": "doc",
-"version": 1,
-"content": [
-{
-"type": "paragraph",
-"content": [
-{
-"type": "text",
-"text": "description"
+"summary":"Review site for core, plugin, theme updates.",
+"description":{ 
+"type":"doc",
+"version":1,
+"content":[ 
+{ 
+"type":"paragraph",
+"content":[ 
+{ 
+"type":"text",
+"text":"description"
 }
 ]
 }
 ]
 },
-"issuetype": {
-"name": "Task"
+"issuetype":{ 
+"name":"Task"
 }
 }
+},
+{ 
+"fields":{ 
+"project":{ 
+"key":"CITDEV"
+},
+"summary":"Review site for core, plugin, theme updates.",
+"description":{ 
+"type":"doc",
+"version":1,
+"content":[ 
+{ 
+"type":"paragraph",
+"content":[ 
+{ 
+"type":"text",
+"text":"description"
+}
+]
+}
+]
+},
+"issuetype":{ 
+"name":"Task"
+}
+}
+}
+]
 }
